@@ -1,0 +1,11 @@
+package ex_06082025;
+
+public class Lab044_RelationalOperators {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 10;
+        boolean c = (10 >= 10); // 10 > 10 or 10 = 10
+        // OR GATE
+        System.out.println(c);
+    }
+}
