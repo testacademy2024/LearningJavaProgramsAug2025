@@ -1,4 +1,4 @@
-package ex_06082025;
+package ex_07082025;
 
 public class Lab039_StringCocatenate {
     public static void main(String[] args) {

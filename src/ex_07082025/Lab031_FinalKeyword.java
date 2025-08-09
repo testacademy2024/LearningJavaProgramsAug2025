@@ -1,4 +1,4 @@
-package ex_06082025;
+package ex_07082025;
 
 public class Lab031_FinalKeyword {
     public static void main(String[] args) {

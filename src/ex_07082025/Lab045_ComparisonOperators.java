@@ -1,4 +1,4 @@
-package ex_06082025;
+package ex_07082025;
 
 public class Lab045_ComparisonOperators {
     public static void main(String[] args) {

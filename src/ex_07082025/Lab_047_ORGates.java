@@ -1,4 +1,4 @@
-package ex_06082025;
+package ex_07082025;
 
 public class Lab_047_ORGates {
     public static void main(String[] args) {

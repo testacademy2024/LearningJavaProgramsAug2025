@@ -1,4 +1,4 @@
-package ex_06082025;
+package ex_07082025;
 
 public class Lab034_EnumReservedKeywords {
     public static void main(String[] args) {
