@@ -1,4 +1,4 @@
-package singleinheritance;
+package ex_22082025.singleinheritance;
 
 public class Son extends Father{
     void bhk3()

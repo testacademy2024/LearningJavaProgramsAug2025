@@ -1,4 +1,4 @@
-package MultilevelInheritance;
+package ex_22082025.MultilevelInheritance;
 
 public class Father extends GrandFather {
 //    void temple()

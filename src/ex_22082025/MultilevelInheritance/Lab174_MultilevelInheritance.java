@@ -1,4 +1,4 @@
-package MultilevelInheritance;
+package ex_22082025.MultilevelInheritance;
 
 public class Lab174_MultilevelInheritance {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package singleinheritance.real;
+package ex_22082025.singleinheritance.real;
 
 public class BaseTest extends GrandBaseTest {
     void startBrowser(){

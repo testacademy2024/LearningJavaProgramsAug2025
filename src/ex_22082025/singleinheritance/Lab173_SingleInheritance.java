@@ -1,4 +1,4 @@
-package singleinheritance;
+package ex_22082025.singleinheritance;
 
 public class Lab173_SingleInheritance {
     public static void main(String[] args) {
